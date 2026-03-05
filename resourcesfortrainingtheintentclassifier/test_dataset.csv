@@ -1,0 +1,201 @@
+text,label
+How are you?,GENERAL_QUESTION
+Hi,GENERAL_QUESTION
+Translate hello to Spanish.,GENERAL_QUESTION
+What is AI?,GENERAL_QUESTION
+How do I cook rice?,GENERAL_QUESTION
+List all crops grown in Thiruvananthapuram.,DATABASE_QUESTION
+How old are you?,GENERAL_QUESTION
+How do I cook rice?,GENERAL_QUESTION
+Tell me a story.,GENERAL_QUESTION
+What is the minimum temperature in Kerala?,DATABASE_QUESTION
+What is the reservoir level of Visakhapatnam?,DATABASE_QUESTION
+What was the total rainfall in Lucknow in 2006?,DATABASE_QUESTION
+Tell me a joke.,GENERAL_QUESTION
+How much Sugarcane was produced in 2011?,DATABASE_QUESTION
+Hello,GENERAL_QUESTION
+What was the total rainfall in Bihar in 2016?,DATABASE_QUESTION
+Give me the area under Maize cultivation in West Bengal.,DATABASE_QUESTION
+You are helpful.,GENERAL_QUESTION
+What is the yield of Rice in Bihar?,DATABASE_QUESTION
+I am bored.,GENERAL_QUESTION
+"What is the total rainfall for Bhubaneswar in July, 2011?",DATABASE_QUESTION
+Show crop yields for 2013.,DATABASE_QUESTION
+How to install pandas?,GENERAL_QUESTION
+Give me the area under Cotton cultivation in Bhubaneswar.,DATABASE_QUESTION
+Find the maximum temperature of Thiruvananthapuram in 2022.,DATABASE_QUESTION
+Do you like pizza?,GENERAL_QUESTION
+Show me the production of Sugarcane in Bihar for 2008.,DATABASE_QUESTION
+What is the best programming language?,GENERAL_QUESTION
+"What is the total rainfall for Ludhiana in January, 2005?",DATABASE_QUESTION
+Suggest a song.,GENERAL_QUESTION
+List all crops grown in Ahmedabad.,DATABASE_QUESTION
+Why is the ocean salty?,GENERAL_QUESTION
+What matches are on today?,GENERAL_QUESTION
+Compare rainfall between Gujarat and Odisha in 2009.,DATABASE_QUESTION
+What is the yield of Sugarcane in Visakhapatnam?,DATABASE_QUESTION
+What is the yield of Sugarcane in Punjab?,DATABASE_QUESTION
+How much Maize was produced in 2014?,DATABASE_QUESTION
+"What is the total rainfall for Lucknow in January, 2019?",DATABASE_QUESTION
+Count of districts in Gujarat.,DATABASE_QUESTION
+Did it rain in Bihar on 2/6/2022?,DATABASE_QUESTION
+Where is Indian Statistical Institute?,GENERAL_QUESTION
+I need advice.,GENERAL_QUESTION
+Show crop yields for 2014.,DATABASE_QUESTION
+How are you?,GENERAL_QUESTION
+List all crops grown in Bihar.,DATABASE_QUESTION
+Give me the area under Potato cultivation in West Bengal.,DATABASE_QUESTION
+What is the yield of Maize in Andhra Pradesh?,DATABASE_QUESTION
+Find the maximum temperature of Kerala in 2014.,DATABASE_QUESTION
+What is the minimum temperature in Kolkata?,DATABASE_QUESTION
+Show crop yields for 2019.,DATABASE_QUESTION
+How do I cook rice?,GENERAL_QUESTION
+What is AI?,GENERAL_QUESTION
+List all crops grown in Karnataka.,DATABASE_QUESTION
+What is the currency of Japan?,GENERAL_QUESTION
+What is the speed of light?,GENERAL_QUESTION
+How to install pandas?,GENERAL_QUESTION
+Find the maximum temperature of Kerala in 2016.,DATABASE_QUESTION
+Who discovered gravity?,GENERAL_QUESTION
+Show me the production of Jute in Andhra Pradesh for 2015.,DATABASE_QUESTION
+Do you like pizza?,GENERAL_QUESTION
+What is the reservoir level of Kolkata?,DATABASE_QUESTION
+How much Cotton was produced in 2013?,DATABASE_QUESTION
+What is the average rainfall in Thiruvananthapuram?,DATABASE_QUESTION
+Who is the founder of ISI?,GENERAL_QUESTION
+What is the population of Earth?,GENERAL_QUESTION
+What is your favorite color?,GENERAL_QUESTION
+Compare rainfall between Uttar Pradesh and Punjab in 2009.,DATABASE_QUESTION
+Do you sleep?,GENERAL_QUESTION
+What is the average rainfall in Kolkata?,DATABASE_QUESTION
+What is the capital of India?,GENERAL_QUESTION
+Translate hello to Spanish.,GENERAL_QUESTION
+What is your name?,GENERAL_QUESTION
+How to make coffee?,GENERAL_QUESTION
+Find the maximum temperature of Kerala in 2012.,DATABASE_QUESTION
+List all crops grown in Patna.,DATABASE_QUESTION
+Suggest a song.,GENERAL_QUESTION
+What is the color of the sky?,GENERAL_QUESTION
+What is the reservoir level of Ahmedabad?,DATABASE_QUESTION
+Do we have temperature data for Patna?,DATABASE_QUESTION
+Do we have temperature data for Kerala?,DATABASE_QUESTION
+Did it rain in Bihar on 2/12/2003?,DATABASE_QUESTION
+Tell me the humidity levels in Ahmedabad.,DATABASE_QUESTION
+Show crop yields for 2016.,DATABASE_QUESTION
+Do you sleep?,GENERAL_QUESTION
+What is AI?,GENERAL_QUESTION
+Who is the CEO of Google?,GENERAL_QUESTION
+List all crops grown in Thiruvananthapuram.,DATABASE_QUESTION
+What was the total rainfall in Uttar Pradesh in 2021?,DATABASE_QUESTION
+How's the weather today?,GENERAL_QUESTION
+How's the weather today?,GENERAL_QUESTION
+List all crops grown in Ludhiana.,DATABASE_QUESTION
+What is the yield of Jute in Uttar Pradesh?,DATABASE_QUESTION
+I need advice.,GENERAL_QUESTION
+Can you dance?,GENERAL_QUESTION
+What is the largest animal?,GENERAL_QUESTION
+How much Rice was produced in 2015?,DATABASE_QUESTION
+What is the average rainfall in Gujarat?,DATABASE_QUESTION
+Did it rain in Uttar Pradesh on 9/9/2002?,DATABASE_QUESTION
+What is 2 + 2?,GENERAL_QUESTION
+List all crops grown in Visakhapatnam.,DATABASE_QUESTION
+What is the capital of India?,GENERAL_QUESTION
+Did it rain in Patna on 28/5/2014?,DATABASE_QUESTION
+List all crops grown in Kerala.,DATABASE_QUESTION
+How many countries in the world?,GENERAL_QUESTION
+Suggest a song.,GENERAL_QUESTION
+Show me the production of Potato in Kerala for 2010.,DATABASE_QUESTION
+What is the stock price of Apple?,GENERAL_QUESTION
+Is there any data for Zaid season in Lucknow?,DATABASE_QUESTION
+Hi,GENERAL_QUESTION
+Was there a drought in Andhra Pradesh in 2016?,DATABASE_QUESTION
+Was there a drought in Odisha in 2011?,DATABASE_QUESTION
+Tell me the humidity levels in Andhra Pradesh.,DATABASE_QUESTION
+Tell me the humidity levels in Thiruvananthapuram.,DATABASE_QUESTION
+When was ISI established?,GENERAL_QUESTION
+How far is the moon?,GENERAL_QUESTION
+What is photosynthesis?,GENERAL_QUESTION
+List all crops grown in Punjab.,DATABASE_QUESTION
+You are helpful.,GENERAL_QUESTION
+Do we have temperature data for Kolkata?,DATABASE_QUESTION
+Tell me a story.,GENERAL_QUESTION
+What is the reservoir level of Lucknow?,DATABASE_QUESTION
+Who is the Prime Minister?,GENERAL_QUESTION
+How much Potato was produced in 2010?,DATABASE_QUESTION
+What is the yield of Cotton in Thiruvananthapuram?,DATABASE_QUESTION
+Tell me a joke.,GENERAL_QUESTION
+What matches are on today?,GENERAL_QUESTION
+Compare rainfall between Gujarat and West Bengal in 2017.,DATABASE_QUESTION
+List all crops grown in Lucknow.,DATABASE_QUESTION
+Do you sleep?,GENERAL_QUESTION
+Show crop yields for 2012.,DATABASE_QUESTION
+Do you sleep?,GENERAL_QUESTION
+What is the yield of Sugarcane in Patna?,DATABASE_QUESTION
+Why is the sky blue?,GENERAL_QUESTION
+Tell me the humidity levels in Kerala.,DATABASE_QUESTION
+What matches are on today?,GENERAL_QUESTION
+Was there a drought in Punjab in 2017?,DATABASE_QUESTION
+How many countries in the world?,GENERAL_QUESTION
+How are you?,GENERAL_QUESTION
+How many continents are there?,GENERAL_QUESTION
+Tell me the humidity levels in Karnataka.,DATABASE_QUESTION
+What is 2 + 2?,GENERAL_QUESTION
+What is the meaning of life?,GENERAL_QUESTION
+What is the minimum temperature in West Bengal?,DATABASE_QUESTION
+Was there a drought in Patna in 2010?,DATABASE_QUESTION
+What is the time now?,GENERAL_QUESTION
+Do you sleep?,GENERAL_QUESTION
+How are you?,GENERAL_QUESTION
+What is the minimum temperature in Kerala?,DATABASE_QUESTION
+Who discovered gravity?,GENERAL_QUESTION
+How many continents are there?,GENERAL_QUESTION
+Who is the Prime Minister?,GENERAL_QUESTION
+Tell me the humidity levels in Ludhiana.,DATABASE_QUESTION
+Explain quantum physics.,GENERAL_QUESTION
+How do I cook rice?,GENERAL_QUESTION
+How many countries in the world?,GENERAL_QUESTION
+What is the minimum temperature in Karnataka?,DATABASE_QUESTION
+Who won the world cup?,GENERAL_QUESTION
+How to make coffee?,GENERAL_QUESTION
+What is the largest animal?,GENERAL_QUESTION
+Show crop yields for 2012.,DATABASE_QUESTION
+What was the total rainfall in West Bengal in 2003?,DATABASE_QUESTION
+What is the best movie?,GENERAL_QUESTION
+Who is the CEO of Google?,GENERAL_QUESTION
+Where do you live?,GENERAL_QUESTION
+How do I cook rice?,GENERAL_QUESTION
+How much Maize was produced in 2020?,DATABASE_QUESTION
+Find the maximum temperature of Kerala in 2003.,DATABASE_QUESTION
+What is the yield of Wheat in Bangalore?,DATABASE_QUESTION
+How much Potato was produced in 2009?,DATABASE_QUESTION
+What is the reservoir level of Lucknow?,DATABASE_QUESTION
+"What is the total rainfall for Odisha in December, 2009?",DATABASE_QUESTION
+Hello,GENERAL_QUESTION
+Did it rain in Uttar Pradesh on 11/11/2010?,DATABASE_QUESTION
+Who created you?,GENERAL_QUESTION
+What is the average rainfall in Lucknow?,DATABASE_QUESTION
+How's the weather today?,GENERAL_QUESTION
+Sing a song.,GENERAL_QUESTION
+What is the minimum temperature in Visakhapatnam?,DATABASE_QUESTION
+Do you sleep?,GENERAL_QUESTION
+What is photosynthesis?,GENERAL_QUESTION
+What is the yield of Potato in Lucknow?,DATABASE_QUESTION
+What is the currency of Japan?,GENERAL_QUESTION
+Count of districts in Bihar.,DATABASE_QUESTION
+Who is the Prime Minister?,GENERAL_QUESTION
+What is ISI?,GENERAL_QUESTION
+Hello,GENERAL_QUESTION
+Was there a drought in West Bengal in 2005?,DATABASE_QUESTION
+What is the best programming language?,GENERAL_QUESTION
+Count of districts in Karnataka.,DATABASE_QUESTION
+Show crop yields for 2021.,DATABASE_QUESTION
+What was the total rainfall in Uttar Pradesh in 2010?,DATABASE_QUESTION
+List all crops grown in Odisha.,DATABASE_QUESTION
+Show me the production of Maize in Odisha for 2013.,DATABASE_QUESTION
+How many continents are there?,GENERAL_QUESTION
+Why is the sky blue?,GENERAL_QUESTION
+Show crop yields for 2014.,DATABASE_QUESTION
+Is there any data for Zaid season in West Bengal?,DATABASE_QUESTION
+Who wrote Harry Potter?,GENERAL_QUESTION
+List all crops grown in Karnataka.,DATABASE_QUESTION
+What is the date today?,GENERAL_QUESTION
